@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lesliedigsby
-- 👀 I’m interested in ... learning more about software development
-- 🌱 I’m currently learning ... Python
+- 👀 I’m interested in ... learning more about software development and data science
+- 🌱 I’m currently learning ... Python, SQL
 - 📫 How to reach me ... lesliedigsby@gmail.com
 - ⚡ Fun fact: ... I love going to the gym to lift, road cycling, and motorsports.
 
